@@ -1,0 +1,42 @@
+.comment-form {
+    max-width: 400px; /* Adjust width as needed */
+    margin: 80px auto; /* Center the form horizontally */
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .comment-form h1 {
+    margin-bottom: 20px;
+    font-size: 24px;
+  }
+  
+  .ant-form-item {
+    margin-bottom: 20px;
+  }
+  
+  .ant-form-item-label {
+    font-weight: bold;
+  }
+  
+  .ant-input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button.btn-primary {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button.btn-primary:hover {
+    background-color: #0056b3;
+  }
+  
